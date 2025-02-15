@@ -10,7 +10,7 @@ pre : " <b> 3.1 </b> "
 
 Go to the S3 dashboard and create a new Bucket named **`web-translate-ws-2024`**
 
-![Sep-Up-S3](/images/3.setupS3/3.1.ima/n1.png)
+![Sep-Up-S3](/static/images/3.setupS3/3.1.ima/n1.png)
 
 Select **ACLs enable** and check **Object write** to make objects in the bucket public.
 
